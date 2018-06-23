@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiNewsCustomer</string>
+    <string name="title_activity_webviewloader">Yours selected news</string>
+</resources>
